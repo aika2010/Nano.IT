@@ -1,0 +1,26 @@
+.FrontendDev{
+    width: 100%;
+    background-color: #32159c;
+}
+.FrontendDev__container{
+    background-color: #32159c;
+    height: 1200px;
+}
+.FrontendDev__title{
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 65px;
+    font-weight: 800;
+    line-height: 134.09%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.FrontendDev__text{
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 53px;
+    font-weight: 800;
+    line-height: 134.09%;
+    letter-spacing: 0%;
+    text-align: center;
+}
